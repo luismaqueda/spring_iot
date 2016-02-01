@@ -1,2 +1,2 @@
 # spring_iot
-Repo that contains projects related with spring webApps with interacts with IOT services.
+Repo containing projects related with Spring web apps that interacts with IOT services (normally throught RPi or Arduino).
